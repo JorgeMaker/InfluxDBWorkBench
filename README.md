@@ -3,8 +3,7 @@
 
 **InfluxDB WorkBench is a GUI management tool for [the InfluxDB time series database](https://www.influxdata.com/time-series-platform/influxdb/) 
 written in Java that runs on Windows , Mac OS X and Unix/Linux, etc**
-InfluxDB WorkBench is an application coping the functionality of [InfluxDB Studio]
-(https://github.com/CymaticLabs/InfluxDBStudio) which can only 
+InfluxDB WorkBench is an application coping the functionality of [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) which can only 
 be run on Windows, but written in java and therefore you can run it any platform.
 
 The following are planned features implemented by [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) that are not yet implemented in 
