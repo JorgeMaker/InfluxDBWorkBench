@@ -27,7 +27,8 @@ public class InfluxDBFacility {
 				return influxDB;
 			}
 			else {
-				if(connection.getUserName() == null & connection.getPassword() == null ){
+				if( (connection.getUserName() == null || connection.getUserName().trim().equalsIgnoreCase("")) &&
+						(connection.getPassword() == null || connection.getPassword().trim().equalsIgnoreCase(""))){
 					influxDB = InfluxDBFactory.connect(connectionString);
 				}
 				else {
