@@ -17,6 +17,6 @@ the current version of InfluxDB WorkBench:
 * Show Continuous Queries
 * Run Back Fill
 
-You can download an executable file for [Windows](https://github.com/JorgeMaker/InfluxDBWorkBench/releases/download/1.0/InfluxDBWorkBench.exe) ,  [Mac OS X](https://github.com/JorgeMaker/InfluxDBWorkBench/releases/download/1.0/InfluxDBWorkBench.app.zip), or an executable [Jar file](https://github.com/JorgeMaker/InfluxDBWorkBench/releases/download/1.0/influxDBWorkBench.jar) to run anywhere. You jut need having installed JRE 1.7 or higher. Download a the executable filfe and store it in a folder where you have  write permissions since the application generates a file to store the data used to connect to each InfluxDB instance.  
+You can download an executable file for [Windows](https://github.com/JorgeMaker/InfluxDBWorkBench/releases/download/1.0/InfluxDBWorkBench.exe) ,  [Mac OS X](https://github.com/JorgeMaker/InfluxDBWorkBench/releases/download/1.0/InfluxDBWorkBench.app.zip), or an executable [Jar file](https://github.com/JorgeMaker/InfluxDBWorkBench/releases/download/1.0/influxDBWorkBench.jar) to run anywhere. You just need having installed JRE 1.7 or higher. Download a the executable filfe and store it in a folder where you have  write permissions since the application generates a file to store the data used to connect to each InfluxDB instance.  
 
 Because Influx WorkBench copies the functionality of Influx Studio works exactly the same. You can consult the user guide found [here](https://github.com/CymaticLabs/InfluxDBStudio/blob/master/README.md)
